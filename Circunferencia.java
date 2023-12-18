@@ -13,7 +13,7 @@ public class ejercicio4 {
         Double Longitud = 2*3.14*radio;
         Double Area = 3.14*radio*radio;
 
-        System.out.println("la lngitud de la circunferencia es: " + Longitud);
+        System.out.println("la longitud de la circunferencia es: " + Longitud);
         System.out.println("El area de la circunferencia es: " + Area);
         
         entrada.close();
